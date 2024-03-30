@@ -1,0 +1,223 @@
+
+.bgimg{
+    padding: 10px;
+    margin-left: 70px;
+    height: 590px;
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 10%;
+   
+}
+.bannertext{
+    position: absolute;
+    top:270px;
+    margin-left:760px;
+    color: #ec6e00;
+    padding: 10px;
+}
+.bannertext h1{
+    font-size:100px;
+}
+.bannertext p{
+    font-size: 50px;
+    bottom: 100px;
+    margin: 0;
+}
+.nav{
+   position: fixed;
+    height: 100px;
+    width: 100%;
+    background-color: #f07306;
+    display: flex;  
+}
+
+.logo
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.logotext{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #0c0c0c;
+}
+.logotext:hover{
+    cursor: pointer;
+    transform: scale(1.3);
+    color: white;
+}
+.i{
+    border-radius: 50%;
+}
+li{
+    list-style: none;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(17, 16, 15);
+}
+
+.ulid {
+    display:flex;
+    width: 400px;
+    padding-left: 40px;
+    font-family:'Poppins',sans-serif;
+    font-weight: bolder;
+    margin-right: 3px;
+}
+
+.list1{
+    padding-left: 500px;
+}
+.se{
+    padding-top: 15px;
+    position: relative;
+    right: 10px;
+}
+
+.of{
+    padding-left: 5vh;
+    padding-top: 15px;
+}
+.he{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+.pr{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+
+.ca{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+.main{
+    height:auto;
+}
+
+.food1
+{
+    justify-content: space-between;
+    display: flex;
+    height: 200px;
+    margin-left: 20px;
+    margin-top: 2px;
+    gap: 20px; 
+}
+
+.food1 :hover{
+    cursor: pointer;
+    transform: scale(1.1);
+}
+.food1 p{
+    padding-left:74px;
+    margin:3px;
+    align-items: center;
+    font-size:20px;
+    font-weight: bolder;
+}
+.food{
+    margin-left: 5px;
+    height:200px;
+    width:200px ;
+    border-radius: 50%;
+    box-shadow: 0px 0px 15px black;
+}
+
+.bold
+{
+    margin-left: 10px;
+    font-weight: bolder;
+    font-size: 30px;
+    margin-top: 5px;
+}
+.firstitem{
+    display:inline-block;
+    padding: 0vh;
+    margin-left: 0px;
+    margin-top: 5px;
+}
+.seconditem{
+    display:inline-block;
+    padding: 0vh;
+    margin-left: 0vw;
+    margin-top: 6vh;
+}
+
+.food2{
+    justify-content: space-between;
+    display: flex; 
+    height: 25vh;
+    margin-left:80px;
+    padding-top: 0vh;
+    gap:80px;
+    }
+    .food2:hover{
+        cursor: pointer; 
+        
+    }
+
+    .himg{
+    height: 160px;
+    width: 240px;
+    border-radius: 10px;
+     }
+.hotel{
+        height: 600px;
+        width: 235px;
+     }
+.hotel:hover{
+        transform: scale(1.1);
+     }
+
+.greenlogo{
+     height: 20px;
+     height: 20px;
+     float: left;
+     }
+
+ hr
+     { 
+        background-color:#0c0c0c;
+        width: 100%;
+        height:3px;
+     }
+.name{
+        color: white;
+        margin-left: 10px;
+        font-family: 'Arial Black',Gadget,sans-serif;
+        font-size: larger;
+     }
+
+     .endmele{
+        margin-left:30px;
+        margin-top: 41px;
+        width: 100px;
+        color: white;
+        font-family: 'Arial Black', Gadget, sans-serif;
+        font-weight: bolder;
+    }
+.endele{
+        color: white;
+        font-family: 'IBM Plex Sans', sans-serif;
+        font-family: 'Roboto', sans-serif;
+        font-weight: bold; 
+     }
+
+.endele:hover{
+    cursor: pointer;  
+ }
+ .darkblue{
+    margin-top: 200px;
+    gap:70px;
+    height: 500px;
+    width: 100%;
+    background-color: rgb(0, 1, 25);
+    display: flex;
+    }
+    

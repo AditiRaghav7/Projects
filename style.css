@@ -1,0 +1,97 @@
+
+.nav{
+    /* border-style: groove; */
+    /* border-width: 3px; */
+    border-color: #fa7900;
+    height: 100px;
+    width: 100%;
+    background-color: #f2892d;
+    display: flex;
+    /* flex-direction: row; */
+}
+
+.logo
+{
+    height: 100px;
+    width: 100px;
+    margin-top: 3px;
+    margin-left: 10px;
+}
+.logotext{
+    margin-top: 10px;
+    margin-left: 20px;
+    color: #0c0c0c;
+}
+.logotext:hover{
+    cursor: pointer;
+    transform: scale(1.3);
+    color: white;
+}
+
+.i{
+    border-radius: 50%;
+}
+li{
+    list-style: none;
+    display: flex;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(17, 16, 15);
+}
+
+.ulid {
+    display:flex;
+    flex-direction:row;
+    width: 400px;
+    padding-left: 40px;
+    font-family:'Poppins',sans-serif;
+    font-weight: bolder;
+    margin-right: 3px;
+}
+
+.list1{
+    padding-left: 600px;
+}
+.he{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+.pr{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+
+.ca{
+    padding-left: 5vw;
+    padding-top: 15px;
+}
+
+input{
+    width: 100%;
+    height: 20px;
+}
+ .container
+{   
+  
+    height: 500px;
+    border-color: black;
+    border-radius: 10px;
+    margin-top: 20px;
+} 
+
+h1{
+    text-align: center;
+}
+.button{
+    height: 40px;
+    width: 100%;
+}
+.button:hover{
+    background-color: black;
+    color: white;
+    border: none;
+    cursor:pointer;
+  
+}
